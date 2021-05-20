@@ -1,0 +1,7 @@
+Data:
+
+Dataset 1:
+https://archive.ics.uci.edu/ml/datasets/Connect-4
+
+Dataset 2:
+https://archive.ics.uci.edu/ml/datasets/Statlog+%28Landsat+Satellite%29
